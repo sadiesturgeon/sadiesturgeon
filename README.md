@@ -6,18 +6,5 @@
 
 - 💞️ I’m looking to collaborate on creative, exploratory visual web projects. Or anything cool really 😎
 
-- 🔨 My current pojects for prospective employers:
-
-  - Daily Sun Aura
-    - https://youtu.be/rwOJTNuAb2g - Project Presentation
-    - https://github.com/sadiesturgeon/DailySunAura
-
-  - Tax Calculator
-    - https://sadiesturgeon.github.io/TaxCalculator/  - GitHub Pages site
-    - https://github.com/sadiesturgeon/TaxCalculator
-
-  - Wildflower Party Ceramics
-    - https://youtu.be/6XT9bxAl1pI - Project Presentation
-
 
 - 📫 How to reach me: www.linkedin.com/in/sadiesturgeon
