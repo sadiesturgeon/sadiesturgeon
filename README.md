@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in ceramics, plants, and unapologetic radical kindness ✨
 
-- 🌱 I’m currently learning Web Development at Madison College in Madison, WI. This semester: Advanced JavaScript and Advanced CSS
+- 🌱 I’m currently learning Web Development at Madison College in Madison, WI
 
 - 💞️ I’m looking to collaborate on creative, exploratory visual web projects. Or anything cool really 😎
 
